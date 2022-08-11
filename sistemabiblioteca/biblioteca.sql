@@ -45,10 +45,10 @@ CREATE TABLE `aluno` (
 --
 
 INSERT INTO `aluno` (`ra`, `nome`, `turma`, `tel`, `email`, `celular`, `dataNascimento`) VALUES
-(1, 'Laura de Andrade Castilho', '2C', '4825-6265', 'lauracastilho@gmail.com', '11345670986', '1999-02-01'),
-(2, 'Elis de Andrade Castilho', '1C', '4002-8922', 'elis@gmail.com', '34567-6543', '1981-04-12'),
-(3, 'Kaua Maia Aquino', '2C', '4828-6265', 'kaua@gmail.com', '98765-6543', '1998-05-05'),
-(4, 'Athirson Lins Soares', '1C', '4798-5623', 'artirson@gmail.com', '99999-6543', '2001-06-10'),
+(1, 'Laura Castilho', '2C', '4825-6265', 'lauracastilho@gmail.com', '11345670986', '1999-02-01'),
+(2, 'Elis Andrade', '1C', '4002-8922', 'elis@gmail.com', '34567-6543', '1981-04-12'),
+(3, 'Kaua Aquino', '2C', '4828-6265', 'kaua@gmail.com', '98765-6543', '1998-05-05'),
+(4, 'Athirson Soares', '1C', '4798-5623', 'artirson@gmail.com', '99999-6543', '2001-06-10'),
 (5, 'Nair de Andrade', '2A', '1235-5645', 'nair@gmail.com', '987654-6543', '2004-12-12'),
 (6, 'Jucilene Aparecida', '1A', '7898-6545', 'jucilene@gmail.com', '98888-6543', '2005-08-09'),
 (7, 'Alexandre Castilho', '1A', '4548-7898', 'alexandre@gmail.com', '95555-6543', '1999-09-10'),
